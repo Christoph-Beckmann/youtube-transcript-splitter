@@ -1,7 +1,7 @@
 # GPT-Friendly YouTube Transcript Splitter
 ---
 
-This command-line tool is designed to fetch the transcript of a YouTube video and process it based on the user's desired mode ('separate', 'full', or 'auto'). The primary purpose of this tool is to make it easier to input long transcripts into ChatGPT by splitting them into smaller chunks. Additionally, prompt-engineering techniques have been incorporated to improve the quality of the output.
+The **YouTube Transcript Splitter** is a highly efficient tool that streamlines the process of acquiring and processing YouTube video transcripts for use with ChatGPT. This powerful command-line tool empowers you to: (1) retrieve the transcript through the video ID or URL; (2) customize the transcript handling through three distinct processing modes ('separate', 'full', or 'auto'); and (3) conveniently copy the processed transcript to your clipboard, either as a whole or in smaller segments to *accommodate ChatGPT's input limitations*. Moreover, it leverages prompt-engineering techniques to enhance output quality, ensuring a more seamless and user-friendly ChatGPT experience.
 
 ## Table of Contents
 ---
